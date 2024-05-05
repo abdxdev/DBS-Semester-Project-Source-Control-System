@@ -1,22 +1,6 @@
 # Semester Project Proposal
 ## Database System for Version Control Platform
-
-### *Submitted By*
-| Name | Roll No. |
-| --- | --- |
-| AbaidUllah | 2023-CS-713 |
-| Abdul Rahman | 2023-CS-725 |
-| Sohaib Shaukat | 2023-CS-740 |
-
-### *Submitted To*
-Ms. Rimsha Noreen
-
-### *Submission Date*
-April 16, 2024
-
-Department of Computer Science
-University of Engineering and Technology Lahore, New Campus
-
+---
 ## Scenario Description
 The project aims to deliver a robust and scalable database system that effectively supports the functionalities of a version control platform while ensuring data integrity, security, and optimal performance. The platform will enable users to create repositories, track changes made to source code, manage issues, collaborate with other users, and engage in discussions through comments. The system will also facilitate version control by recording commits, managing branches, and allowing users to star repositories and follow other users.
 
