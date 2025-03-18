@@ -1,6 +1,5 @@
-# Semester Project Proposal
-## Database System for Version Control Platform
----
+# Database System for Version Control Platform
+
 ## Scenario Description
 The project aims to deliver a robust and scalable database system that effectively supports the functionalities of a version control platform while ensuring data integrity, security, and optimal performance. The platform will enable users to create repositories, track changes made to source code, manage issues, collaborate with other users, and engage in discussions through comments. The system will also facilitate version control by recording commits, managing branches, and allowing users to star repositories and follow other users.
 
