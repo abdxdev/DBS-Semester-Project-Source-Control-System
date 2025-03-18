@@ -27,4 +27,4 @@ The project aims to deliver a robust and scalable database system that effective
 - **User Experience:** Prioritize user experience by optimizing database queries.
 
 ## Entity-Relationship Diagram
-![alt text](https://github.com/abdxdev/DBS-Semester-Project/blob/main/ERD.png?raw=true)
+![alt text](https://github.com/abdxdev/DBS-Semester-Project-Source-Control-System/blob/main/ERD.png?raw=true)
